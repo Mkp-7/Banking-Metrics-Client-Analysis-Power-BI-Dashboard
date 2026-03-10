@@ -1,6 +1,6 @@
 # Banking Metrics & Client Analysis Power BI Dashboard
 
-![Dashboard Preview](Images/Dashboard_Overview.png)
+![Dashboard Preview](Images/Home.png)
 
 ## Project Overview
 The **Banking Metrics & Client Analysis Power BI Dashboard** provides actionable insights into client portfolios, banking relationships, and financial performance.  
